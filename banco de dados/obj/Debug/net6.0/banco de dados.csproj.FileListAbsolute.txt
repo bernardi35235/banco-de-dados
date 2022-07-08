@@ -1,0 +1,28 @@
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.csproj.AssemblyReference.cache
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.AssemblyInfoInputs.cache
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.AssemblyInfo.cs
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.csproj.CoreCompileInputs.cache
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\banco de dados.exe
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\banco de dados.deps.json
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\banco de dados.runtimeconfig.json
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\banco de dados.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\banco de dados.pdb
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\refint\banco de dados.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.pdb
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.genruntimeconfig.cache
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\ref\banco de dados.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\banco de dados.dll.config
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Usuario\Area De Trabalho\Curso c#\projetos\banco de dados\banco de dados\obj\Debug\net6.0\banco de dados.csproj.CopyComplete
